@@ -42,7 +42,7 @@
       "wa-sticker-formatter": "^4.4.4"
    },
    "devDependencies": {
-      "css-select": "5.1.0",
+      "css-select": "7.0.0",
       "fflate": "^0.8.2",
       "pm2": "~7.0.3"
    }
